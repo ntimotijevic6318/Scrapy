@@ -1,7 +1,7 @@
 # scraping
 # Primer skrejpovanja sajta - IMDB
 
-** Snimak prezentacije : [Scraping](https://mega.nz/file/WbYF2Tba#TNvbfojsUKlgMpzwZNqiBc3MIFb4QQYXGPUXjEUe4YA)
+**Snimak prezentacije** : [Scraping](https://mega.nz/file/WbYF2Tba#TNvbfojsUKlgMpzwZNqiBc3MIFb4QQYXGPUXjEUe4YA)
 
 Na snimku se radi o:
 + Korišćenju scrapy biblioteke za rekurzivno skrejpovanje podataka koja ima komandu scrapy startproject _project-name_ 
